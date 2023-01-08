@@ -1,0 +1,89 @@
+.header {
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 20px;
+  }
+  
+  /* style untuk navbar */
+  .navbar {
+	overflow: hidden;
+	background-color: black;
+  }
+  
+  .navbar a {
+	float: left;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+  }
+  
+  .navbar a:hover {
+	background-color: #ddd;
+	color: black;
+  }
+  
+  /* style untuk ul */
+  ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+  }
+  
+  /* style untuk li */
+  li {
+	float: left;
+  }
+  
+  /* style untuk Isi */
+  #Isi {
+	width: 80%;
+	margin: 0 auto;
+	background-color: white;
+	padding: 20px;
+  }
+  
+  /* style untuk Isiposting */
+  .Isiposting {
+	width: 70%;
+	margin: 0 auto;
+	text-align: center;
+  }
+  
+  .Isiposting h2 {
+	font-size: 30px;
+	margin-bottom: 20px;
+  }
+  
+  .Isiposting img {
+	width: 300px;
+	border-radius: 50%;
+	margin-bottom: 20px;
+  }
+  
+  /* style untuk table */
+  table {
+	border-collapse: collapse;
+	width: 100%;
+	margin: 20px 0;
+  }
+  
+  td, th {
+	border: 1px solid #dddddd;
+	text-align: left;
+	padding: 8px;
+  }
+  
+  /* style untuk sosmed */
+  .sosmed {
+	margin-top: 20px;
+  }
+  
+  .sosmed img {
+	width: 40px;
+	margin-right: 10px;
+  }
